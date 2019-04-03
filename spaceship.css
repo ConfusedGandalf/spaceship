@@ -1,0 +1,116 @@
+        .backg{
+            position: absolute;
+            width:606px;
+            height:606px;
+            overflow:hidden;
+            background-color: #004466
+        }
+        a{
+            color:white;
+            position:relative;
+            top:550px;
+            left:200px;
+        }
+        canvas{
+            width:600px;
+            height:600px;
+        }
+        .star2,.star10,.star11,.star12{
+            background-color: white;
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            position: relative;
+        }
+        .star5,.star3,.star6,.star13,.star15{
+            background-color: white;
+            width: 3px;
+            height: 3px;
+            border-radius: 50%;
+            position: relative;
+        }
+
+        .star14{
+            background-color: rgb(245, 250, 196);
+            width: 15px;
+            height: 15px;
+            border-radius: 50%;
+            position: relative;
+        }
+
+        .star9,.star8,.star7{
+            background-color: rgb(130, 194, 255);
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            position: relative;
+        }
+
+        .star1,.star4{
+            background-color: white;
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            position: relative;
+        }
+        .star1{
+            left:25px;
+            top:29px;
+        }
+        .star2{
+            left:75px;
+            top:121px;
+        }
+        .star3{
+            left:62px;
+            top:291px;
+        }
+        .star4{
+            left:392px;
+            top:140px;
+        }
+        .star5{
+            left:380px;
+            top:410px;
+        }
+        .star6{
+            left:324px;
+            top:254px;
+        }
+        .star7{
+            left:264px;
+            top:61px;
+        }
+        .star8{
+            left:159px;
+            top:418px;
+        }
+        .star9{
+            left:190px;
+            top:205px;
+        }
+        .star10{
+            left:405px;
+            top:205px;
+        }
+        .star11{
+            left:220px;
+            top:260px;
+        }
+        .star12{
+            left:330px;
+            top:415px;
+        }
+        .star13{
+            left:430px;
+            top:35px;
+        }
+        .star14{
+            left:450px;
+            top:330px;
+        }
+        .star15{
+            left:40px;
+            top:460px;
+        }
+  
